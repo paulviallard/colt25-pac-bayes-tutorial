@@ -1,0 +1,11 @@
+encoding: utf-8
+baseurl: /stat
+url: "" 
+markdown: kramdown
+theme: minima 
+
+plugins:
+  - jekyll-redirect-from
+
+title: "How to Make Use of Learning Theory to Learn Efficient ML Models: From PAC-Bayesian Generalization Bounds to (Self-Bounding) Learning Algorithms"
+title-description: COLT 2025 Tutorial
