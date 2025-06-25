@@ -11,13 +11,15 @@ The PAC-Bayesian framework offers a flexible and powerful approach to assessing 
 
 # Presenters
 
-**Emilie Morvant**
-Associate Professor (Maître de Conférences, HDR)
-Université Jean Monnet St-Etienne, France
+**Emilie Morvant**  
+Associate Professor (Maître de Conférences, HDR)  
+Université Jean Monnet St-Etienne, France  
+<https://emorvant.github.io/>
 
-**Paul Viallard**
-Researcher
-Centre Inria de l'Université de Rennes, France
+**Paul Viallard**  
+Researcher  
+Centre Inria de l'Université de Rennes, France  
+<https://paulviallard.github.io>
 
 # Materials
 
