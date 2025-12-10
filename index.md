@@ -23,4 +23,4 @@ Centre Inria de l'Université de Rennes, France
 
 # Materials
 
-The slides will be available after the tutorial.
+The slides are available [here](/assets/slides.pdf).
